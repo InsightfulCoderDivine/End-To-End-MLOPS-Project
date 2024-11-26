@@ -1,1 +1,16 @@
 # Add your dependencies here
+catboost
+joblib
+lightgbm
+optuna
+streamlit
+xgboost
+markupsafe
+zenml
+mlflow
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+-e .
