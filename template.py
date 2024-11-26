@@ -52,6 +52,9 @@ list_of_files = [
     # Configuration and requirements
     "config.yaml",
     "requirements.txt",
+    
+    # Install __init__.py as local directory
+    "setup.py",
 
     # Streamlit app
     "streamlit_app.py",
